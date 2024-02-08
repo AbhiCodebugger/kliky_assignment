@@ -1,0 +1,41 @@
+{
+    "heartRate": 99,
+    "dailyGoals": {
+        "friday": {
+            "goal": true,
+            "percent": 1.0
+        },
+        "saturday": {
+            "goal": false,
+            "percent": 0.9
+        },
+        "sunday": {
+            "goal": true,
+            "percent": 1.0
+        },
+        "monday": {
+            "goal": false,
+            "percent": 0.7
+        },
+        "tuesday": {
+            "goal": false,
+            "percent": 0.9
+        },
+        "wednesday": {
+            "goal": true,
+            "percent": 1.0
+        },
+        "thursday": {
+            "goal": true,
+            "percent": 1.0
+        }
+    },
+    "steps": 972,
+    "lastSleep": 924,
+    "type" : {
+        "awake" :  72,
+        "rem": 65,
+        "lightSleep": 68,
+        "deepSleep" : 69
+    }
+}
